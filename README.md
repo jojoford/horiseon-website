@@ -1,5 +1,5 @@
 # horiseon-website
-Given HTML doc that did not included symantic HTML elements or follow a logical structure. 
+Given HTML doc that did not include symantic HTML elements nor follow a logical structure. 
 There were no alt attributes. 
 The first link at the top of the page was not working. 
 The title wasn't concise or decsriptive. 
